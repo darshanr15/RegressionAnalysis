@@ -1,5 +1,5 @@
 # RegressionAnalysis
-Utilizing regression analysis to forecast Canada's per capita income trends and future trajectory.
+Utilizing regression analysis to forecast Canada's per capita income trends and how it will change in the future.
 
 In this project, we aim to explore the trends and patterns in Canada's per capita income using time series regression analysis. We will employ various techniques to preprocess the data, select relevant features, choose an appropriate regression model, and validate its performance. Our ultimate goal is to develop a predictive model that can forecast the future trajectory of Canada's per capita income.
 
